@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintPath": "pylint",
+    "python.sortImports.path": "isort",
+    "python.testing.pytestPath": "pytest",
+    "python.formatting.autopep8Path": "autopep8",
+}

@@ -1,0 +1,8 @@
+# Python
+venv/*
+
+# Bash
+run.sh
+
+# Others
+.output/
